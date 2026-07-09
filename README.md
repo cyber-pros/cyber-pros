@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-Overview
 CyberProsAI helps organizations govern AI agents before risk, regulation, and operational complexity outpace their ability to respond.
 
 As organizations move from AI pilots to autonomous and semi-autonomous AI agents, governance can no longer stay theoretical. AI agents interact with data, systems, workflows, customers, employees, and decisions. That creates a new class of risk requiring practical oversight, clear accountability, and operational controls.
